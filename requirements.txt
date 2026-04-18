@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+groq
+streamlit
+pandas
+streamlit
+supabase
+python-dotenv
+xlsxwriter
+requests
